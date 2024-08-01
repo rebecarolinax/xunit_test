@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\54931473865\\Desktop\\unit_test\\exercises\\book\\books-management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A5FFFD-F35B-42DD-B0CD-BBCD94527C83}|book-management.csproj|c:\\users\\54931473865\\desktop\\unit_test\\exercises\\book\\books-management\\bookmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A5FFFD-F35B-42DD-B0CD-BBCD94527C83}|book-management.csproj|solutionrelative:bookmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookManagement.cs",
+              "DocumentMoniker": "C:\\Users\\54931473865\\Desktop\\unit_test\\exercises\\book\\books-management\\BookManagement.cs",
+              "RelativeDocumentMoniker": "BookManagement.cs",
+              "ToolTip": "C:\\Users\\54931473865\\Desktop\\unit_test\\exercises\\book\\books-management\\BookManagement.cs",
+              "RelativeToolTip": "BookManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T18:54:51.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

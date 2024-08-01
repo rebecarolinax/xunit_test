@@ -1,0 +1,14 @@
+C:\Users\54931473865\Desktop\unit_test\exercises\control\control-inventory\bin\Debug\net8.0\control-inventory.exe
+C:\Users\54931473865\Desktop\unit_test\exercises\control\control-inventory\bin\Debug\net8.0\control-inventory.deps.json
+C:\Users\54931473865\Desktop\unit_test\exercises\control\control-inventory\bin\Debug\net8.0\control-inventory.runtimeconfig.json
+C:\Users\54931473865\Desktop\unit_test\exercises\control\control-inventory\bin\Debug\net8.0\control-inventory.dll
+C:\Users\54931473865\Desktop\unit_test\exercises\control\control-inventory\bin\Debug\net8.0\control-inventory.pdb
+C:\Users\54931473865\Desktop\unit_test\exercises\control\control-inventory\obj\Debug\net8.0\control-inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54931473865\Desktop\unit_test\exercises\control\control-inventory\obj\Debug\net8.0\control-inventory.AssemblyInfoInputs.cache
+C:\Users\54931473865\Desktop\unit_test\exercises\control\control-inventory\obj\Debug\net8.0\control-inventory.AssemblyInfo.cs
+C:\Users\54931473865\Desktop\unit_test\exercises\control\control-inventory\obj\Debug\net8.0\control-inventory.csproj.CoreCompileInputs.cache
+C:\Users\54931473865\Desktop\unit_test\exercises\control\control-inventory\obj\Debug\net8.0\control-inventory.dll
+C:\Users\54931473865\Desktop\unit_test\exercises\control\control-inventory\obj\Debug\net8.0\refint\control-inventory.dll
+C:\Users\54931473865\Desktop\unit_test\exercises\control\control-inventory\obj\Debug\net8.0\control-inventory.pdb
+C:\Users\54931473865\Desktop\unit_test\exercises\control\control-inventory\obj\Debug\net8.0\control-inventory.genruntimeconfig.cache
+C:\Users\54931473865\Desktop\unit_test\exercises\control\control-inventory\obj\Debug\net8.0\ref\control-inventory.dll
